@@ -1,0 +1,19 @@
+{
+  "name": "minfraud",
+  "version": "1.0.0",
+  "description": "Detects fraud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fraud",
+    "phishing",
+    "scam"
+  ],
+  "author": "AaftabK aaftabkhanna007@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^3.0.0"
+  }
+}
